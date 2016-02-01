@@ -24,6 +24,7 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 * [ES* in Node](https://twitter.com/Fishrock123/status/691676456649408512)
 * [Why I left Gulp and Grunt for NPM scripts](https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
+* [Why I use Tape Instead of Mocha and So Should You](https://medium.com/@boneskull/full-disclosure-i-m-a-maintainer-of-mocha-5d9ded373e10)
 
 ## Compile-to-JavaScript
 
